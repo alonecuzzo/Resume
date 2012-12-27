@@ -43,7 +43,7 @@
 
 *Site was recipient of the Adobe Site of the Day Award.*
 
-* Worked remotely at Starwood's offices to integrate the sliver system with their API.
+* Worked remotely at Starwood's offices for BBDO to integrate the sliver system with their API.
 * Created and implemented interaction design which was eventually approved by Starwood.
 * Integrated BBDO's development workflow with Starwood's by working closely with Starwood's team to create a hybrid process.  
 * Kept the project rolling after entire team left, which effectively meant taking on the roles of project manager, designer, and art director until new staff was hired.
@@ -66,7 +66,7 @@
 * Single handedly compounded midtown Manhattan smile ratio by 38% third quarter 2012.
 
 ## Proficiency
-[ **python**: proficient ], [ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **flask**: prior experience ], [ **django**: prior experience ], [ **sinatra**: prior experience ] 
+[ **python**: proficient ], [ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **flask**: prior experience ], [ **django**: prior experience ], [ **sinatra**: prior experience ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
 
 ## Education
 
