@@ -6,6 +6,16 @@
 
 ## Experience
 
+### [10K (beta)](https://itunes.apple.com/us/app/10k/id600767166?ls=1&mt=8) 
+
+#### Lead Designer & Developer: December 2012 ~ Present 
+
+* Designed and implemented wire-frames for beta version.
+* Took wire-frames and created app designs from them.
+* Using Core Data, implemented back-end for app.
+* Created custom animations for app.
+* Wrote all copy for app.
+
 ### [Retail Therapy](https://vimeo.com/50476025) 
 
 #### Lead Designer & Developer: August 2012 ~ Present 
@@ -66,7 +76,7 @@
 * Single handedly compounded midtown Manhattan smile ratio by 38% third quarter 2012.
 
 ## Proficiency
-[ **python**: proficient ], [ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **flask**: prior experience ], [ **django**: prior experience ], [ **sinatra**: prior experience ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
+[ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
 
 ## Education
 
