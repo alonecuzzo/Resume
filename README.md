@@ -1,4 +1,4 @@
-# Resume
+# [Resume]: http://alonecuzzo.github.com/Resume/ 
 
 This started as just a simple place to store a markdown format of my resume, and now it's turned into an easy way to host your resume using [sinatra][s], [github-pages][gp] or [Heroku][h].
 
