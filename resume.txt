@@ -13,6 +13,7 @@
 * Designed and implemented wire-frames for beta version.
 * Took wire-frames and created app designs from them.
 * Using Core Data, implemented back-end for app.
+* Using CAAnimation to create app animations.
 * Created custom animations for app.
 * Wrote all copy for app.
 
@@ -31,7 +32,7 @@
 #### Lead Mobile Developer: September 2011 ~ August 2012
 
 * Facilitated communication with external iOS vendor to manage progress of iOS app. 
-* Aided in creation of the Mixsee API. 
+* Aided in creation of the Mixsee REST API using mongo and PHP for endpoints. 
 * Coded endpoint functionality which was then hooked to the Mongo database. 
 * Assisted in the UX design for the Android version of Mixsee. 
 * Produced several working prototypes of Mixsee for different Android devices. 
