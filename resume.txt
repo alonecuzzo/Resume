@@ -19,7 +19,7 @@
 * Led development initiative for internal iPad game. Used cocos2d to build and match design specs.  
 * Drove optimization of app using Instruments. 
 
-**Technologies used:** Objective-C, Java, REST, PHP, mongodb
+**Technologies used:** Objective-C, Java, REST, PHP, mongodb        
 **Libraries:** ActionbarSherlock, AFNetworking, Twitter4J, cocos2d
 
 ### CDM Internal Mobile App 
@@ -30,8 +30,7 @@
 * 
 
 
-**Technologies used:** Objective-C
-
+**Technologies used:** Objective-C      
 **Libraries:** Core Data, cocos2d
 
 ##Apps
@@ -53,8 +52,7 @@
 * Integrated app designs with app implementation.  
 * Successfully fought schizophrenic urges wearing designer and developer hats.
 
-**Technologies used:** Objective-C, Photoshop
-
+**Technologies used:** Objective-C, Photoshop     
 **Libraries:** Core Data
 
 ##Other Development Experience
