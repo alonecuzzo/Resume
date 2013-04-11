@@ -31,6 +31,7 @@
 
 
 **Technologies used:** Objective-C
+
 **Libraries:** Core Data, cocos2d
 
 ##Apps
@@ -53,6 +54,7 @@
 * Successfully fought schizophrenic urges wearing designer and developer hats.
 
 **Technologies used:** Objective-C, Photoshop
+
 **Libraries:** Core Data
 
 ##Other Development Experience
