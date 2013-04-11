@@ -1,14 +1,41 @@
 # Jabari Bell 
 
  * <jabari.bell@23b.it>
- * <http://23b.it>
  * 347-331-6840 
 
-## Experience
+## Work Experience
 
-### [10K (beta)](https://itunes.apple.com/us/app/10k/id600767166?ls=1&mt=8) 
+### [Mixsee](http://mixsee.com) 
 
-#### Lead Designer & Developer: December 2012 ~ Present 
+#### Lead iPhone/iPad/Android Developer: September 2011 ~ August 2012
+
+* Coordinated with Project Management, Engineering and outside vendors to deliver app.
+* Codesigned the Mixsee Enterprise Level REST API using mongodb and PHP for endpoints. Components included OAuth authentication, media serving and location based analysis.  
+* Coded key API infrastructure including sign in and media uploads.
+* Documented and verified key project requirements for the internal team and external vendors.
+* Coding, maintenance and enhancements to the iPhone and Android applications.
+* Headed project discovery phase to help clarify business objectives, API requirements, and devices supported for the app.  Worked closely with senior management, production and design to discover company initiatives for the app's users.
+* Architecture discovery and design documented and presented via goals, progress and milestones docs to senior management.
+* Led development initiative for internal iPad game. Used cocos2d to build and match design specs.  
+* Drove optimization of app using Instruments. 
+
+**Technologies used:** Objective-C, Java, REST, PHP, mongodb
+**Libraries:** ActionbarSherlock, AFNetworking, Twitter4J, cocos2d
+
+### CDM Internal Mobile App 
+
+#### iPad Developer: March 2011 ~ June 2011
+
+* Developed internal library for easy production of slides for company users.
+* 
+
+
+**Technologies used:** Objective-C
+**Libraries:** Core Data, cocos2d
+
+##Apps
+
+### [10K | Smarter Learning](http://alonecuzzo.github.io/10klandingpage/) 
 
 * Designed and implemented wire-frames for beta version.
 * Took wire-frames and created app designs from them.
@@ -19,24 +46,16 @@
 
 ### [Retail Therapy](https://vimeo.com/50476025) 
 
-#### Lead Designer & Developer: August 2012 ~ Present 
-
 * Researched recent scientific studies in happiness, which led to wireframes for the app.
 * Wire-framed and designed assets for app using Photoshop.    
 * Normalized database design for the app, which allowed for easy scalability of functionality.
 * Integrated app designs with app implementation.  
 * Successfully fought schizophrenic urges wearing designer and developer hats.
 
-### [Mixsee](http://mixsee.com) 
+**Technologies used:** Objective-C, Photoshop
+**Libraries:** Core Data
 
-#### Lead Mobile Developer: September 2011 ~ August 2012
-
-* Facilitated communication with external iOS vendor to manage progress of iOS app. 
-* Aided in creation of the Mixsee REST API using mongo and PHP for endpoints. 
-* Coded endpoint functionality which was then hooked to the Mongo database. 
-* Assisted in the UX design for the Android version of Mixsee. 
-* Produced several working prototypes of Mixsee for different Android devices. 
-* Debugged and trouble-shot iOS vendor code, fixing a number of issues which enhanced overall performance of the app. 
+##Other Development Experience
 
 ### [2k Games](http://www.2kgames.com/) 
 
@@ -58,23 +77,6 @@
 * Created and implemented interaction design which was eventually approved by Starwood.
 * Integrated BBDO's development workflow with Starwood's by working closely with Starwood's team to create a hybrid process.  
 * Kept the project rolling after entire team left, which effectively meant taking on the roles of project manager, designer, and art director until new staff was hired.
-
-### [Hands for Haiti](http://dev.pxlflu.net/haiti) 
-
-#### Lead Designer & Developer: February 2010 
-
-*Site was created and managed by myself in an effort to organize relief events in the NYC area.*
-
-* Developed and designed the site the night of the earthquake.
-* Managed coordinating with event organizers in NYC to keep site updated.
-
-### [The Book of Lulz](http://thebookoflulz.org) 
-
-#### Lead Designer & Developer  
-
-* Took the site from concept to execution using the Tumblrs.
-* Fished and sorted through the best lulz to maximize team morale in the greater NYC area.
-* Single handedly compounded midtown Manhattan smile ratio by 38% third quarter 2012.
 
 ## Proficiency
 [ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
