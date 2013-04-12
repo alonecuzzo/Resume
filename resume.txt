@@ -5,6 +5,15 @@
 
 ## Work Experience
 
+###Freelance 
+
+#### August 2012 ~ present
+
+
+
+**Technologies used:** Objective-C, nodejs, gruntjs, expressjs, mongodb, git, git-hooks
+**Libraries:** Core Data, MKMapView, AFNetworking
+
 ### [Mixsee](http://mixsee.com) 
 
 #### Lead iPhone/iPad/Android Developer: September 2011 ~ August 2012
