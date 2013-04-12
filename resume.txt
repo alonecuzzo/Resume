@@ -7,19 +7,26 @@
 
 ###Freelance 
 
-#### August 2012 ~ present
+#### iPhone/iPad/js development: August 2012 ~ present
 
+* Concepted and created 10k learning app.  Lead team to produce a working beta for proof of concept and successfully submitted to App Store.
+* Used Core Data to map out and match taxonomy for the data model.
+* Used expressjs sitting on node to create endpoints for the 10k API.  Wrote and tested logic that interfaces with mongo backend.
+* Created grunt tasks that watched active directories, converting .scss files to .css files and .coffee files .js files.  Also created grunt tasks for css and js compression.
+* Linked grunt tasks to git hooks to check if js trying to be committed passed js-lint tests; commits were rejected if they did not pass. 
+* Used nodejs to create a live chatroom that interfaced with an iPad app built using Appcelerator.  
+*  Won 3rd place at Adobe Game Jam 2013.  Created all art assets and assisted in programming shooter featuring grumpy cat using easeljs. 
+*  Created and performed A/B testing on landing page for app using lean strategies.
 
-
-**Technologies used:** Objective-C, nodejs, gruntjs, expressjs, mongodb, git, git-hooks
-**Libraries:** Core Data, MKMapView, AFNetworking
+**Technologies used:** Objective-C, mongodb, git, git-hooks, bash scripting
+**Libraries:** Core Data, MKMapView, AFNetworking, Appcelerator, nodejs, gruntjs, expressjs, easeljs, backbonejs
 
 ### [Mixsee](http://mixsee.com) 
 
 #### Lead iPhone/iPad/Android Developer: September 2011 ~ August 2012
 
 * Coordinated with Project Management, Engineering and outside vendors to deliver app.
-* Codesigned the Mixsee Enterprise Level REST API using mongodb and PHP for endpoints. Components included OAuth authentication, media serving and location based analysis.  
+* Co-designed the Mixsee Enterprise Level REST API using mongodb and PHP for endpoints. Components included OAuth authentication, media serving and location based analysis.  
 * Coded key API infrastructure including sign in and media uploads.
 * Documented and verified key project requirements for the internal team and external vendors.
 * Coding, maintenance and enhancements to the iPhone and Android applications.
@@ -36,30 +43,33 @@
 #### iPad Developer: March 2011 ~ June 2011
 
 * Developed internal library for easy production of slides for company users.
-* 
+* Used cocos2d to simulate 3d transformations for multiple choice games.
+* Consulted with senior management and production to determine best methods to present information in most informative and entertaining way for users.
+* Led discussions that took ideas from concept to implementation on iPad.
+* Independently architected company specs for the assisted learning application. 
+* Worked closely with project management in designing a ticket tracking system to efficiently track and report bugs. 
 
-
-**Technologies used:** Objective-C      
+**Technologies used:** Objective-C, Photoshop     
 **Libraries:** Core Data, cocos2d
 
 ##Apps
 
 ### [10K | Smarter Learning](http://alonecuzzo.github.io/10klandingpage/) 
 
-* Designed and implemented wire-frames for beta version.
-* Took wire-frames and created app designs from them.
-* Using Core Data, implemented back-end for app.
-* Using CAAnimation to create app animations.
-* Created custom animations for app.
-* Wrote all copy for app.
+It is said that it takes 10,000 hours of focused practice to become proficient at something.  10K allows you to keep track of those hours and focused on your goals, perfect for students and professionals alike.
 
-### [Retail Therapy](https://vimeo.com/50476025) 
+* Designed and implemented wire-frames for beta version.
+* Using CAAnimation to create app animations.
+
+**Technologies used:** Objective-C, Photoshop     
+**Libraries:** Core Data, AFNetworking, MKMapView     
+
+### [Retail Therapy](https://vimeo.com/50476025)  
+
+Many people can tell you if they are happy with the amount of money they make, but few can tell you how happy they are with how they spend their money.  Retail Therapy is an app that helps you keep on top of your emotional spending. 
 
 * Researched recent scientific studies in happiness, which led to wireframes for the app.
-* Wire-framed and designed assets for app using Photoshop.    
 * Normalized database design for the app, which allowed for easy scalability of functionality.
-* Integrated app designs with app implementation.  
-* Successfully fought schizophrenic urges wearing designer and developer hats.
 
 **Technologies used:** Objective-C, Photoshop     
 **Libraries:** Core Data
