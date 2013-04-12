@@ -18,7 +18,7 @@
 *  Won 3rd place at Adobe Game Jam 2013.  Created all art assets and assisted in programming shooter featuring grumpy cat using easeljs. 
 *  Created and performed A/B testing on landing page for app using lean strategies.
 
-**Technologies used:** Objective-C, mongodb, git, git-hooks, bash scripting
+**Technologies used:** Objective-C, mongodb, git, git-hooks, bash scripting     
 **Libraries:** Core Data, MKMapView, AFNetworking, Appcelerator, nodejs, gruntjs, expressjs, easeljs, backbonejs
 
 ### [Mixsee](http://mixsee.com) 
@@ -74,7 +74,8 @@ Many people can tell you if they are happy with the amount of money they make, b
 **Technologies used:** Objective-C, Photoshop     
 **Libraries:** Core Data
 
-##Other Development Experience
+##Other Development Experience  
+After being in front-end (some mid/back-end) development 5+ years, I began to make the transition to mobile while still staying true to my web roots.
 
 ### [2k Games](http://www.2kgames.com/) 
 
@@ -86,6 +87,8 @@ Many people can tell you if they are happy with the amount of money they make, b
 * Integrated jobs page with the 2k games API hooks which allowed employees at 2k games to make updates to the site via the CMS.
 * Translated coordinate system to map lat/lon coordinate points to the map graphic for accurate geolocation placement of jobs. 
 
+**Technologies used:** js, as3       
+
 ### [Starwood Hotels Luxury Collection](http://www.starwoodhotels.com/luxury/search/explore_collection.html) 
 
 #### Lead Developer: February 2009 ~ May 2009  
@@ -95,7 +98,19 @@ Many people can tell you if they are happy with the amount of money they make, b
 * Worked remotely at Starwood's offices for BBDO to integrate the sliver system with their API.
 * Created and implemented interaction design which was eventually approved by Starwood.
 * Integrated BBDO's development workflow with Starwood's by working closely with Starwood's team to create a hybrid process.  
-* Kept the project rolling after entire team left, which effectively meant taking on the roles of project manager, designer, and art director until new staff was hired.
+
+**Technologies used:** as3, jsp
+
+### Georgia Pacific   
+
+* Assisted DBA in writing procedures for database.
+* Performed crisis management when DBA was gone for a month.
+* Helped to optimize queries for database that processed over 100,000 new delivery records daily.
+
+#### Database Developer: May 2004 ~ September 2005   
+
+
+**Technologies used:** sql server 2000, asp
 
 ## Proficiency
 [ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
