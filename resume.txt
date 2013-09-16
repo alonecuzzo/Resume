@@ -5,6 +5,22 @@
 
 ## Work Experience
 
+### [Brabble](http://brabble.com) 
+
+#### Senior iPhone Developer: April 2013 ~ September 2013
+
+* Led efforts to introduce Agile and BDD methodologies to the team.
+* Coded new features and helped to maintain legacy features in the app.
+* Facilitated communication between team and upper management using user stories and verifying them by sharing user features.  
+* Integrated BDD user tests into legacy code. Successfully simulated different user paths throughout the app.
+* Led refactoring of legacy code with design patterns approach.
+* Integrated API calls with local core data store.
+* Managed thread debugging and image caching optimization.
+* Supervised submission of app to app store.
+
+**Technologies used:** Objective-C, TDD, frank, cucumber, core data, iOS7, xcode 5
+**Libraries:** MKNetworkKit 
+
 ###Freelance 
 
 #### iPhone/iPad/js development: August 2012 ~ present
@@ -15,8 +31,8 @@
 * Created grunt tasks that watched active directories, converting .scss files to .css files and .coffee files .js files.  Also created grunt tasks for css and js compression.
 * Linked grunt tasks to git hooks to check if js trying to be committed passed js-lint tests; commits were rejected if they did not pass. 
 * Used nodejs to create a live chatroom that interfaced with an iPad app built using Appcelerator.  
-*  Won 3rd place at Adobe Game Jam 2013.  Created all art assets and assisted in programming shooter featuring grumpy cat using easeljs. 
-*  Created and performed A/B testing on landing page for app using lean strategies.
+* Won 3rd place at Adobe Game Jam 2013.  Created all art assets and assisted in programming shooter featuring grumpy cat using easeljs. 
+* Created and performed A/B testing on landing page for app using lean strategies.
 
 **Technologies used:** Objective-C, mongodb, git, git-hooks, bash scripting     
 **Libraries:** Core Data, MKMapView, AFNetworking, Appcelerator, nodejs, gruntjs, expressjs, easeljs, backbonejs
@@ -113,7 +129,7 @@ After being in front-end (some mid/back-end) development 5+ years, I began to ma
 **Technologies used:** sql server 2000, asp
 
 ## Proficiency
-[ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
+[ **objc**: proficient ], [**android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
 
 ## Education
 
