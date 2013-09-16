@@ -1,42 +1,97 @@
 # Jabari Bell 
 
  * <jabari.bell@23b.it>
- * <http://23b.it>
  * 347-331-6840 
 
-## Experience
+## Work Experience
 
-### [10K (beta)](https://itunes.apple.com/us/app/10k/id600767166?ls=1&mt=8) 
+### [Brabble](http://brabble.com) 
 
-#### Lead Designer & Developer: December 2012 ~ Present 
+#### Senior iPhone Developer: April 2013 ~ September 2013
 
-* Designed and implemented wire-frames for beta version.
-* Took wire-frames and created app designs from them.
-* Using Core Data, implemented back-end for app.
-* Using CAAnimation to create app animations.
-* Created custom animations for app.
-* Wrote all copy for app.
+* Led efforts to introduce Agile and BDD methodologies to the team.
+* Coded new features and helped to maintain legacy features in the app.
+* Facilitated communication between team and upper management using user stories and verifying them by sharing user features.  
+* Integrated BDD user tests into legacy code. Successfully simulated different user paths throughout the app.
+* Led refactoring of legacy code with design patterns approach.
+* Integrated API calls with local core data store.
+* Managed thread debugging and image caching optimization.
+* Supervised submission of app to app store.
 
-### [Retail Therapy](https://vimeo.com/50476025) 
+**Technologies used:** Objective-C, TDD, frank, cucumber, core data, iOS7, xcode 5
+**Libraries:** MKNetworkKit 
 
-#### Lead Designer & Developer: August 2012 ~ Present 
+###Freelance 
 
-* Researched recent scientific studies in happiness, which led to wireframes for the app.
-* Wire-framed and designed assets for app using Photoshop.    
-* Normalized database design for the app, which allowed for easy scalability of functionality.
-* Integrated app designs with app implementation.  
-* Successfully fought schizophrenic urges wearing designer and developer hats.
+#### iPhone/iPad/js development: August 2012 ~ present
+
+* Concepted and created 10k learning app.  Lead team to produce a working beta for proof of concept and successfully submitted to App Store.
+* Used Core Data to map out and match taxonomy for the data model.
+* Used expressjs sitting on node to create endpoints for the 10k API.  Wrote and tested logic that interfaces with mongo backend.
+* Created grunt tasks that watched active directories, converting .scss files to .css files and .coffee files .js files.  Also created grunt tasks for css and js compression.
+* Linked grunt tasks to git hooks to check if js trying to be committed passed js-lint tests; commits were rejected if they did not pass. 
+* Used nodejs to create a live chatroom that interfaced with an iPad app built using Appcelerator.  
+* Won 3rd place at Adobe Game Jam 2013.  Created all art assets and assisted in programming shooter featuring grumpy cat using easeljs. 
+* Created and performed A/B testing on landing page for app using lean strategies.
+
+**Technologies used:** Objective-C, mongodb, git, git-hooks, bash scripting     
+**Libraries:** Core Data, MKMapView, AFNetworking, Appcelerator, nodejs, gruntjs, expressjs, easeljs, backbonejs
 
 ### [Mixsee](http://mixsee.com) 
 
-#### Lead Mobile Developer: September 2011 ~ August 2012
+#### Lead iPhone/iPad/Android Developer: September 2011 ~ August 2012
 
-* Facilitated communication with external iOS vendor to manage progress of iOS app. 
-* Aided in creation of the Mixsee REST API using mongo and PHP for endpoints. 
-* Coded endpoint functionality which was then hooked to the Mongo database. 
-* Assisted in the UX design for the Android version of Mixsee. 
-* Produced several working prototypes of Mixsee for different Android devices. 
-* Debugged and trouble-shot iOS vendor code, fixing a number of issues which enhanced overall performance of the app. 
+* Coordinated with Project Management, Engineering and outside vendors to deliver app.
+* Co-designed the Mixsee Enterprise Level REST API using mongodb and PHP for endpoints. Components included OAuth authentication, media serving and location based analysis.  
+* Coded key API infrastructure including sign in and media uploads.
+* Documented and verified key project requirements for the internal team and external vendors.
+* Coding, maintenance and enhancements to the iPhone and Android applications.
+* Headed project discovery phase to help clarify business objectives, API requirements, and devices supported for the app.  Worked closely with senior management, production and design to discover company initiatives for the app's users.
+* Architecture discovery and design documented and presented via goals, progress and milestones docs to senior management.
+* Led development initiative for internal iPad game. Used cocos2d to build and match design specs.  
+* Drove optimization of app using Instruments. 
+
+**Technologies used:** Objective-C, Java, REST, PHP, mongodb        
+**Libraries:** ActionbarSherlock, AFNetworking, Twitter4J, cocos2d
+
+### CDM Internal Mobile App 
+
+#### iPad Developer: March 2011 ~ June 2011
+
+* Developed internal library for easy production of slides for company users.
+* Used cocos2d to simulate 3d transformations for multiple choice games.
+* Consulted with senior management and production to determine best methods to present information in most informative and entertaining way for users.
+* Led discussions that took ideas from concept to implementation on iPad.
+* Independently architected company specs for the assisted learning application. 
+* Worked closely with project management in designing a ticket tracking system to efficiently track and report bugs. 
+
+**Technologies used:** Objective-C, Photoshop     
+**Libraries:** Core Data, cocos2d
+
+##Apps
+
+### [10K | Smarter Learning](http://alonecuzzo.github.io/10klandingpage/) 
+
+It is said that it takes 10,000 hours of focused practice to become proficient at something.  10K allows you to keep track of those hours and focused on your goals, perfect for students and professionals alike.
+
+* Designed and implemented wire-frames for beta version.
+* Using CAAnimation to create app animations.
+
+**Technologies used:** Objective-C, Photoshop     
+**Libraries:** Core Data, AFNetworking, MKMapView     
+
+### [Retail Therapy](https://vimeo.com/50476025)  
+
+Many people can tell you if they are happy with the amount of money they make, but few can tell you how happy they are with how they spend their money.  Retail Therapy is an app that helps you keep on top of your emotional spending. 
+
+* Researched recent scientific studies in happiness, which led to wireframes for the app.
+* Normalized database design for the app, which allowed for easy scalability of functionality.
+
+**Technologies used:** Objective-C, Photoshop     
+**Libraries:** Core Data
+
+##Other Development Experience  
+After being in front-end (some mid/back-end) development 5+ years, I began to make the transition to mobile while still staying true to my web roots.
 
 ### [2k Games](http://www.2kgames.com/) 
 
@@ -48,6 +103,8 @@
 * Integrated jobs page with the 2k games API hooks which allowed employees at 2k games to make updates to the site via the CMS.
 * Translated coordinate system to map lat/lon coordinate points to the map graphic for accurate geolocation placement of jobs. 
 
+**Technologies used:** js, as3       
+
 ### [Starwood Hotels Luxury Collection](http://www.starwoodhotels.com/luxury/search/explore_collection.html) 
 
 #### Lead Developer: February 2009 ~ May 2009  
@@ -57,27 +114,22 @@
 * Worked remotely at Starwood's offices for BBDO to integrate the sliver system with their API.
 * Created and implemented interaction design which was eventually approved by Starwood.
 * Integrated BBDO's development workflow with Starwood's by working closely with Starwood's team to create a hybrid process.  
-* Kept the project rolling after entire team left, which effectively meant taking on the roles of project manager, designer, and art director until new staff was hired.
 
-### [Hands for Haiti](http://dev.pxlflu.net/haiti) 
+**Technologies used:** as3, jsp
 
-#### Lead Designer & Developer: February 2010 
+### Georgia Pacific   
 
-*Site was created and managed by myself in an effort to organize relief events in the NYC area.*
+* Assisted DBA in writing procedures for database.
+* Performed crisis management when DBA was gone for a month.
+* Helped to optimize queries for database that processed over 100,000 new delivery records daily.
 
-* Developed and designed the site the night of the earthquake.
-* Managed coordinating with event organizers in NYC to keep site updated.
+#### Database Developer: May 2004 ~ September 2005   
 
-### [The Book of Lulz](http://thebookoflulz.org) 
 
-#### Lead Designer & Developer  
-
-* Took the site from concept to execution using the Tumblrs.
-* Fished and sorted through the best lulz to maximize team morale in the greater NYC area.
-* Single handedly compounded midtown Manhattan smile ratio by 38% third quarter 2012.
+**Technologies used:** sql server 2000, asp
 
 ## Proficiency
-[ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
+[ **objc**: proficient ], [**android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **nodejs**: proficient ], [ **gruntjs**: proficient ], [ **backbonejs**: proficient]
 
 ## Education
 
