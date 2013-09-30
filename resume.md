@@ -3,6 +3,13 @@
  * <jabari.bell@23b.it>
  * 347-331-6840 
 
+
+## Press
+
+### [Tech Crunch NYC 2013](http://techcrunch.com/2013/04/28/hackathon-squirrel-evernote/) 
+
+### [NYC Big Apps 2013 3rd Place](http://nycbigapps.com/project/212/salmon-dont-just-get-there)
+
 ## Work Experience
 
 ### [Brabble](http://brabble.com) 
