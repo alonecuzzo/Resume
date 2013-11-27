@@ -61,6 +61,17 @@
 **Technologies used:** Objective-C, Java, REST, PHP, mongodb        
 **Libraries:** ActionbarSherlock, AFNetworking, Twitter4J, cocos2d
 
+### CDM Internal Mobile App
+
+ #### iPad Developer: March 2011 ~ June 2011
+
+ * Developed internal library for easy production of slides for company users.
+ * Used cocos2d to simulate 3d transformations for multiple choice games.
+ * Consulted with senior management and production to determine best methods to present information in most informative and entertaining way for users.
+ * Led discussions that took ideas from concept to implementation on iPad.
+ * Independently architected company specs for the assisted learning application.
+ * Worked closely with project management in designing a ticket tracking system to efficiently track and report bugs.
+
 ##Apps
 
 ### [10K | Smarter Learning](http://alonecuzzo.github.io/10klandingpage/) 
