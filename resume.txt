@@ -12,6 +12,22 @@
 
 ## Work Experience
 
+### [Paperless Post](http://paperlesspost.com) 
+
+#### iPhone Developer: December 2013 ~ present 
+
+* Wrote and implemented a general validator for all API calls made in the app.
+* Implemented deletion functionality for the iPad version of the app. 
+* Built out direct notifications screens in the iPad and iPhone versions of the app.  Handled deep linking into various sections of the app.
+* Created API mapping calls for endpoints such as envelope liners.
+* Integrated these API calls with custom pagination.
+* Combined native objective-c code with natively run javascript. 
+* Used this bridged code to implement photo filters in the app.
+* Created address book on iPad.
+
+**Technologies used:** Objective-C, Swift 
+**Libraries:** RestKit, Ejecta
+
 ### [Brabble](http://brabble.com) 
 
 #### Senior iPhone Developer: April 2013 ~ September 2013
