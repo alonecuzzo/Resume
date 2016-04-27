@@ -1,18 +1,37 @@
-# Jabari Bell 
+# Jabari Bell
 
  * <jabari.bell@23b.it>
- * 347-331-6840 
+ * 347-331-6840
 
 
 ## Press
 
-### [Tech Crunch NYC 2013](http://techcrunch.com/2013/04/28/hackathon-squirrel-evernote/) 
+### [Tech Crunch NYC 2013](http://techcrunch.com/2013/04/28/hackathon-squirrel-evernote/)
 
 ### [NYC Big Apps 2013 3rd Place](http://nycbigapps.com/project/212/salmon-dont-just-get-there)
 
 ## Work Experience
 
-### [Brabble](http://brabble.com) 
+### [Paperless Post](http://paperlesspost.com)
+
+#### Senior iPhone Developer: December 2013 ~ present
+
+* Mentored a member of the data science team and helped her to successfully learn iOS and transfer to the mobile team.
+* Created Paperless University, which is a system of empowerment for employees.
+* Designed on-boarding processes and learning processes for company interns.
+* Wrote and implemented a generic validator for all API calls made in the app.
+* Led regular one-on-one meetings with employees to help clarify personal and career goals.
+* Led team in transitioning to an MVVM architecture using Reactive Programming and bindings.
+* Built out direct notifications screens in the iPad and iPhone versions of the app.  Handled deep linking into various sections of the app.
+* Combined native objective-c code with natively run javascript.
+* Spearheaded implementation of code review standards for the team.
+* Started company wide groups such as the drawing and push-up clubs.
+* Led team book club which resulted in company-wide presentations.
+
+**Technologies used:** Objective-C, Swift
+**Libraries:** RestKit, Ejecta, RxSwift, PromiseKit
+
+### [Brabble](http://brabble.com)
 
 #### Senior iPhone Developer: April 2013 ~ September 2013
 
@@ -23,12 +42,12 @@
 * Led refactoring of legacy code with design patterns approach.
 * Integrated API calls with local core data store.
 * Managed thread debugging and image caching optimization.
-* Supervised submission of app to app store.
+* Supervised submission of app to App Store.
 
 **Technologies used:** Objective-C, TDD, frank, cucumber, core data, iOS7, xcode 5
-**Libraries:** MKNetworkKit 
+**Libraries:** MKNetworkKit
 
-###Freelance 
+###Freelance
 
 #### iPhone/iPad/js development: August 2012 ~ present
 
@@ -36,15 +55,15 @@
 * Used Core Data to map out and match taxonomy for the data model.
 * Used expressjs sitting on node to create endpoints for the 10k API.  Wrote and tested logic that interfaces with mongo backend.
 * Created grunt tasks that watched active directories, converting .scss files to .css files and .coffee files .js files.  Also created grunt tasks for css and js compression.
-* Linked grunt tasks to git hooks to check if js trying to be committed passed js-lint tests; commits were rejected if they did not pass. 
+* Linked grunt tasks to git hooks to check if js trying to be committed passed js-lint tests; commits were rejected if they did not pass.
 * Used nodejs to create a live chatroom that interfaced with an iPad app built using Appcelerator.  
-* Won 3rd place at Adobe Game Jam 2013.  Created all art assets and assisted in programming shooter featuring grumpy cat using easeljs. 
+* Won 3rd place at Adobe Game Jam 2013.  Created all art assets and assisted in programming shooter featuring grumpy cat using easeljs.
 * Created and performed A/B testing on landing page for app using lean strategies.
 
 **Technologies used:** Objective-C, mongodb, git, git-hooks, bash scripting     
 **Libraries:** Core Data, MKMapView, AFNetworking, Appcelerator, nodejs, gruntjs, expressjs, easeljs, backbonejs
 
-### [Mixsee](http://mixsee.com) 
+### [Mixsee](http://mixsee.com)
 
 #### Lead iPhone/iPad/Android Developer: September 2011 ~ August 2012
 
@@ -56,7 +75,7 @@
 * Headed project discovery phase to help clarify business objectives, API requirements, and devices supported for the app.  Worked closely with senior management, production and design to discover company initiatives for the app's users.
 * Architecture discovery and design documented and presented via goals, progress and milestones docs to senior management.
 * Led development initiative for internal iPad game. Used cocos2d to build and match design specs.  
-* Drove optimization of app using Instruments. 
+* Drove optimization of app using Instruments.
 
 **Technologies used:** Objective-C, Java, REST, PHP, mongodb        
 **Libraries:** ActionbarSherlock, AFNetworking, Twitter4J, cocos2d
@@ -74,7 +93,7 @@
 
 ##Apps
 
-### [10K | Smarter Learning](http://alonecuzzo.github.io/10klandingpage/) 
+### [10K | Smarter Learning](http://alonecuzzo.github.io/10klandingpage/)
 
 It is said that it takes 10,000 hours of focused practice to become proficient at something.  10K allows you to keep track of those hours and focused on your goals, perfect for students and professionals alike.
 
@@ -86,7 +105,7 @@ It is said that it takes 10,000 hours of focused practice to become proficient a
 
 ### [Retail Therapy](https://vimeo.com/50476025)  
 
-Many people can tell you if they are happy with the amount of money they make, but few can tell you how happy they are with how they spend their money.  Retail Therapy is an app that helps you keep on top of your emotional spending. 
+Many people can tell you if they are happy with the amount of money they make, but few can tell you how happy they are with how they spend their money.  Retail Therapy is an app that helps you keep on top of your emotional spending.
 
 * Researched recent scientific studies in happiness, which led to wireframes for the app.
 * Normalized database design for the app, which allowed for easy scalability of functionality.
@@ -97,19 +116,19 @@ Many people can tell you if they are happy with the amount of money they make, b
 ##Other Development Experience  
 After being in front-end (some mid/back-end) development 5+ years, I began to make the transition to mobile while still staying true to my web roots.
 
-### [2k Games](http://www.2kgames.com/) 
+### [2k Games](http://www.2kgames.com/)
 
-#### Developer: September 2009 ~ November 2009 
+#### Developer: September 2009 ~ November 2009
 
 *Site was recipient of the Adobe Site of the Day Award and theFWA Award.*
 
 * Built out jobs page, and optimized animation of map points.   
 * Integrated jobs page with the 2k games API hooks which allowed employees at 2k games to make updates to the site via the CMS.
-* Translated coordinate system to map lat/lon coordinate points to the map graphic for accurate geolocation placement of jobs. 
+* Translated coordinate system to map lat/lon coordinate points to the map graphic for accurate geolocation placement of jobs.
 
 **Technologies used:** js, as3       
 
-### [Starwood Hotels Luxury Collection](http://www.starwoodhotels.com/luxury/search/explore_collection.html) 
+### [Starwood Hotels Luxury Collection](http://www.starwoodhotels.com/luxury/search/explore_collection.html)
 
 #### Lead Developer: February 2009 ~ May 2009  
 
