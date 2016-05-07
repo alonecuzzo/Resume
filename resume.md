@@ -1,6 +1,6 @@
 # Jabari Bell
 
- * <jabari.bell@23b.it>
+ * <jabari.bell@pxlflu.net>
  * 347-331-6840
 
 
