@@ -10,8 +10,7 @@
 
 ### [NYC Big Apps 2013 3rd Place](http://nycbigapps.com/project/212/salmon-dont-just-get-there)
 
-### [Chatbots
-Magazine](https://chatbotsmagazine.com/bots-are-dead-long-live-bots-emotional-context-is-king-e61fead6749a#.ibojt4axb)
+### [Chatbots Magazine](https://chatbotsmagazine.com/bots-are-dead-long-live-bots-emotional-context-is-king-e61fead6749a#.ibojt4axb)
 
 ## Work Experience
 
