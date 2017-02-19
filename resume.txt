@@ -4,13 +4,14 @@
  * 347-331-6840
 
 
-## Featured in
+## Featured
+
+### [Chatbots Magazine](https://chatbotsmagazine.com/bots-are-dead-long-live-bots-emotional-context-is-king-e61fead6749a#.ibojt4axb)
 
 ### [Tech Crunch NYC 2013](http://techcrunch.com/2013/04/28/hackathon-squirrel-evernote/)
 
 ### [NYC Big Apps 2013 3rd Place](http://nycbigapps.com/project/212/salmon-dont-just-get-there)
 
-### [Chatbots Magazine](https://chatbotsmagazine.com/bots-are-dead-long-live-bots-emotional-context-is-king-e61fead6749a#.ibojt4axb)
 
 ## Work Experience
 
