@@ -4,17 +4,48 @@
  * 347-331-6840
 
 
-## Press
+## Featured in
 
 ### [Tech Crunch NYC 2013](http://techcrunch.com/2013/04/28/hackathon-squirrel-evernote/)
 
 ### [NYC Big Apps 2013 3rd Place](http://nycbigapps.com/project/212/salmon-dont-just-get-there)
 
+### [Chatbots
+Magazine](https://chatbotsmagazine.com/bots-are-dead-long-live-bots-emotional-context-is-king-e61fead6749a#.ibojt4axb)
+
 ## Work Experience
+
+### [ustwo](http://ustwo.com)
+
+#### Senior Product Developer: June 2016 ~ present
+
+* Interfaced directly with clients and advised them on technical
+  decisions.
+* Coded prototypes and scalable solutions to client problems using
+  Swift.
+* Implemented cutting edge iOS patterns such as MVVM using RFP.
+* Wrote expressive tests using BDD.
+* Stubbed out an API using APIary and built services against it. 
+* Set up and maintained a build process using fastlane and Travis CI.
+* Successfully set up cross team provisioning using fastlane match.
+* Worked on a successfully shipped internal project
+  [yoop](https://ustwo.com/blog/yoop-an-experiment-in-feel-good-collaboration).
+* Involved in standardizing iOS best practices across the organization.
+* Involved in forming SWOT analysis for the organization.
+* Prototyped a onboarding chat bot for new hires.
+* Involved in redesigning the onboarding process.
+* Created strategic relationships for an internal auto project.
+* Mentored another developer in learning Swift.
+* Was heavily involved in testing assumptions around key client goals
+  using Google Design Sprints.
+
+**Technologies used:** Swift, Ruby, Travis CI, fastlane, Carthage,
+Crashlytics, Fabric, APIary
+**Libraries:** RxSwift, RxCocoa, Quick, Nimble, OHTTPStubs, Alamofire
 
 ### [Paperless Post](http://paperlesspost.com)
 
-#### Senior iPhone Developer: December 2013 ~ present
+#### Senior iPhone Developer: December 2013 ~ May 2016
 
 * Mentored a member of the data science team and helped her to successfully learn iOS and transfer to the mobile team.
 * Created Paperless University, which is a system of empowerment for employees.
@@ -82,7 +113,7 @@
 
 ### CDM Internal Mobile App
 
- #### iPad Developer: March 2011 ~ June 2011
+#### iPad Developer: March 2011 ~ June 2011
 
  * Developed internal library for easy production of slides for company users.
  * Used cocos2d to simulate 3d transformations for multiple choice games.
