@@ -25,7 +25,7 @@
   Swift.
 * Implemented cutting edge iOS patterns such as MVVM using RFP.
 * Wrote expressive tests using BDD.
-* Stubbed out an API using APIary and built services against it. 
+* Stubbed out an API using APIary and built services against it.
 * Set up and maintained a build process using fastlane and Travis CI.
 * Successfully set up cross team provisioning using fastlane match.
 * Worked on a successfully shipped internal project
@@ -41,6 +41,7 @@
 
 **Technologies used:** Swift, Ruby, Travis CI, fastlane, Carthage,
 Crashlytics, Fabric, APIary
+
 **Libraries:** RxSwift, RxCocoa, Quick, Nimble, OHTTPStubs, Alamofire
 
 ### [Paperless Post](http://paperlesspost.com)
@@ -60,6 +61,7 @@ Crashlytics, Fabric, APIary
 * Led team book club which resulted in company-wide presentations.
 
 **Technologies used:** Objective-C, Swift
+
 **Libraries:** RestKit, Ejecta, RxSwift, PromiseKit
 
 ### [Brabble](http://brabble.com)
