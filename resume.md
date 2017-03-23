@@ -17,7 +17,7 @@
 
 ### [ustwo](http://ustwo.com)
 
-#### Senior Product Developer: June 2016 ~ present
+#### Senior Product Developer: June 2016 ~ March 2016
 
 * Interfaced directly with clients and advised them on technical
   decisions.
