@@ -15,6 +15,24 @@
 
 ## Work Experience
 
+### [Newscorp](http://newscorp.com)
+
+#### Director, iOS Lead: April 2017 ~ present
+
+* Created technical tasks from user stories for various international teams running in parallel on projects with shared dependencies.
+* Interfaced directly with the client - Identifying client needs and assisting the creation of user stories.
+* Led architectural decisions for sustainability and scalability of our framework.
+* Managed resources on multiple teams, including leads.
+* Worked closely with Android and Web teams to ensure product quality.
+* Used Swagger to create documentation that facilitated communication between teams in multiple time zones and countries.
+* Brainstormed, drafted, presented and implemented technical standards to help streamline communication between members of my dev teams.
+* Worked to integrate complex client backends into our framework.
+* Created technical estimates for projects and participated in Agile methodologies.
+* Managed communication between product and engineering and gave direction to team PM's.
+
+**Technologies used:** Swift, Swagger, BuddyBuild, nodejs, Crashlytics
+
+
 ### [ustwo](http://ustwo.com)
 
 #### Senior Product Developer: June 2016 ~ March 2016
